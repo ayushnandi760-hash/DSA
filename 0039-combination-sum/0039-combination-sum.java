@@ -5,7 +5,7 @@ class Solution {
             ans.add(new ArrayList(out));
             return;
         }
-        if(i>=candidates.length) return;
+        if(i>candidates.length-1) return;
         if(target<0){
             return;
         }

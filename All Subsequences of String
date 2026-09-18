@@ -1,0 +1,25 @@
+class Solution {
+    public List<String> powerSet(String s) {
+        // Code here
+        StringBuilder out=new StringBuilder();
+        ArrayList<String> ans =new ArrayList<String>();
+        int i=0;
+        substring(s,i,out,ans);
+        
+        Collections.sort(ans);
+        return ans;
+    }
+    
+   public static void substring(String s,int i,StringBuilder out,ArrayList<String> ans){
+        if(i>=s.length()){
+            ans.add(out.toString());
+            return;
+        }
+        
+        char ch=s.charAt(i);
+        out.append(ch);
+        substring(s,i+1,out,ans);
+        out.deleteCharAt(out.length()-1);
+        substring(s,i+1,out,ans);
+    }
+}

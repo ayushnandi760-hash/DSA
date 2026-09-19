@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushnandi760-hash/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ayushnandi760-hash/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushnandi760-hash/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushnandi760-hash/DSA/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/ayushnandi760-hash/DSA/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushnandi760-hash/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

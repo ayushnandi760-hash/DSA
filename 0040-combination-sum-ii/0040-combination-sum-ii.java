@@ -6,7 +6,7 @@ class Solution {
 
         // Target achieved
         if (target == 0) {
-            ans.add(new ArrayList<>(out));
+            ans.add(new ArrayList(out));
             return;
         }
 

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushnandi760-hash/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/ayushnandi760-hash/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushnandi760-hash/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

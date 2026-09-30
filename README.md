@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |

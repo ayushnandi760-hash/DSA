@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushnandi760-hash/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushnandi760-hash/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ayushnandi760-hash/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
